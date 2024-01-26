@@ -1,0 +1,15 @@
+﻿  FRontonProf.cpp
+D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\FRontonProf\FRontonProf.cpp(9,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\FRontonProf\FRontonProf.cpp(9,26): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\FRontonProf\FRontonProf.cpp(20,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\FRontonProf\FRontonProf.cpp(20,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\FRontonProf\FRontonProf.cpp(70,67): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+  FRontonProf.vcxproj -> D:\AluCiclesGS1\Cristian\PROG\UF2\FRontonProf\Debug\FRontonProf.exe
