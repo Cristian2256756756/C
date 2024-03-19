@@ -1,0 +1,5 @@
+﻿  Repas arrays amb el sarró del heroi.cpp
+D:\AluCiclesGS1\Cristian\PROG\UF2\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi.cpp(39,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\AluCiclesGS1\Cristian\PROG\UF2\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi.cpp(44,6): warning C4101: 'nombre': variable local sin referencia
+D:\AluCiclesGS1\Cristian\PROG\UF2\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi\Repas arrays amb el sarró del heroi.cpp(42,6): warning C4101: 'cantidad': variable local sin referencia
+  Repas arrays amb el sarró del heroi.vcxproj -> D:\AluCiclesGS1\Cristian\PROG\UF2\Repas arrays amb el sarró del heroi\x64\Debug\Repas arrays amb el sarró del heroi.exe
